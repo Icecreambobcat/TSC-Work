@@ -1,7 +1,9 @@
 # Project timeline tracker
+
 Progress and steps will be tracked here once in a while
 
 ## To do
+
 - [ ] Title page
 - [ ] Contents
 - [ ] Background & purpose
@@ -23,6 +25,8 @@ Progress and steps will be tracked here once in a while
 - [ ] End product
 
 ## Comments & notes
+
 | Date & subject | Note |
 |--------------- | --------------- |
 | 14/08 - Management | Migrated project management to GH & Prio -> written documentation (find pics later) |
+| 16/8 - Prog update | Continued migrating background & research theory + completed additional background |
