@@ -21,7 +21,10 @@ being the industry leader in software and hardware.
 With capitalism, comes variety, or rather, the lack thereof. This isn't
 unusual, given its only sensible to commercialise and continue the products
 that bring in the most revenue and attention, even if the project has genuine
-merit and purpose. However, as a somewhat regular player of these games and knowing friends that frequent these games, I've always felt there's been something missing. The custom experience. Unique, tailored, perfect, just to our specifications. {CONTINUE LATER} 
+merit and purpose. However, as a somewhat regular player of these games and
+knowing friends that frequent these games, I've always felt there's been
+something missing. The custom experience. Unique, tailored, perfect, just to
+our specifications. {CONTINUE LATER}
 
 ### Purpose
 
