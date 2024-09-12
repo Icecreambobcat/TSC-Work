@@ -6,9 +6,10 @@ Progress and steps will be tracked here once in a while
 
 - [ ] Title page
 - [ ] Contents
-- [ ] Background & purpose
-- [ ] Timeline -> notion link?
+- [x] Background & purpose
+- [ ] Timeline
 - [ ] Research
+  - [ ] Areas of investigation
   - [ ] Compare & contrast tech & materials
   - [ ] Ditto w/tools
 - [ ] Double diamond
@@ -30,3 +31,5 @@ Progress and steps will be tracked here once in a while
 |--------------- | --------------- |
 | 14/08 - Management | Migrated project management to GH & Prio -> written documentation (find pics later) |
 | 16/8 - Prog update | Continued migrating background & research theory + completed additional background |
+| 5/9 - Update | Targeting wrapping up 90% of the writeup over the next 3 days |
+| 10/9 - Update | Clearly not done, and mildly off track, but come on... it's exam week. I'm working on the writeup right now |
