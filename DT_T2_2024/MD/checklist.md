@@ -23,6 +23,9 @@ Progress and steps will be tracked here once in a while
 - [ ] CAD & prototyping -> iterative design
   - [ ] PMI's from sketches
   - [ ] Build docs
+- [ ] Review
+  - [ ] Research relevance
+  - [ ] Overall evaluation
 - [ ] End product
 
 ## Comments & notes
