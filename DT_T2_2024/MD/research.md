@@ -10,7 +10,7 @@ Often a niche and relatively obscure genre, rhythm games have their own unique a
 
 ### Purpose
 
-There is one purpose with this product: to provide uncompromising performance when playing these rhythm games, and to be fully customisable. We need a design that's both approachable for beginners and experts alike, without sacrificing quality or usability; the product should be designed without planned obsolescence or unsustainable practices in mind, instead being built for the user - extensible, modifiable, and recyclable or reusable at the end of its lifespan. While these are a brief outline of some details the product should fulfill, many more specifics can only be decided after an iterative design process. At the end of the day, the product is just a keyboard with a specific layout, but an extremely good one at that.
+There is one purpose with this product: to provide uncompromising performance when playing these rhythm games, and to be fully customisable. We need a design that's both approachable for beginners and experts alike, without sacrificing quality or usability; the product should be designed without planned obsolescence or unsustainable practices in mind, instead being built for the user - extensible, modifiable, and recyclable or reusable at the end of its lifespan. While these are a brief outline of some details the product should fulfil, many more specifics can only be decided after an iterative design process. At the end of the day, the product is just a keyboard with a specific layout, but an extremely good one at that.
 
 ### Considerations
 
@@ -31,9 +31,9 @@ Of course, as a school project, there are time limitations among a slew of other
 ### Areas of Investigation
 
 | Area | Relevance |
-| --- | --- |
-| Analysis of existing designs | placeholder |
-| Materials & tech | placeholder |
+| :---: | --- |
+| Analysis of existing designs | Understanding common pitfalls and designs allows for not only a more streamlined design process better directed towards the design specifications, but also a more complete understanding of the project insofar as to remove much of the time-intensive components - iterative design is less necessary when a product has largely been "solved" by companies with more money. |
+| Materials & tech | Understanding *how* something works is arguably one of the most, if not the most essential component of any project - material choice, tooling, designing for either of the above - all of these hinge on understanding every component of the project. |
 | Tools | placeholder |
 | Construction | placeholder |
 
