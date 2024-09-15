@@ -34,8 +34,8 @@ Of course, as a school project, there are time limitations among a slew of other
 | :---: | --- |
 | Analysis of existing designs | Understanding common pitfalls and designs allows for not only a more streamlined design process better directed towards the design specifications, but also a more complete understanding of the project insofar as to remove much of the time-intensive components - iterative design is less necessary when a product has largely been "solved" by companies with more money. |
 | Materials & tech | Understanding *how* something works is arguably one of the most, if not the most essential component of any project - material choice, tooling, designing for either of the above - all of these hinge on understanding every component of the project. |
-| Tools | placeholder |
-| Construction | placeholder |
+| Tools | Tooling and machinery is often the biggest restriction to the specifications of a project, given the limitations of CAD software far exceed reasonable manufacturing standards - something can be a valid design, bar the fact that it'd be impossible to create without technologies such as SLS (selective laser sintering) that are often inaccessible or create unavoidable drawbacks that may invalidate the design. Of course, safety standards would also be greatly improved by an understanding of the tools used in any project, where workplace safety is often of the utmost importance in any studio. |
+| Construction | While the "build" segment of the project may seem less prominent than the design and engineering behind something, it's also the moment all the design considerations and criteria are validated. Understanding the construction of a project would also allow engineers and designers to optimise their designs for repairability and usability. |
 
 ### Materials & technologies
 
