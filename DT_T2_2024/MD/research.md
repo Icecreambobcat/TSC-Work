@@ -2,6 +2,9 @@
 
 Progress tracking [here](checklist.md)
 
+> [!IMPORTANT]
+> Image uploads are coming, but I'm probably doing 90% of the work in the holidays.
+
 ## Background & purpose
 
 ### Context
