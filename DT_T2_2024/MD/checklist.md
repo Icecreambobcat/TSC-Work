@@ -9,7 +9,7 @@ Progress and steps will be tracked here once in a while
 - [x] Background & purpose
 - [ ] Timeline
 - [ ] Research
-  - [ ] Areas of investigation
+  - [x] Areas of investigation
   - [ ] Compare & contrast tech & materials
   - [ ] Ditto w/tools
 - [ ] Double diamond
@@ -36,3 +36,4 @@ Progress and steps will be tracked here once in a while
 | 16/8 - Prog update | Continued migrating background & research theory + completed additional background |
 | 5/9 - Update | Targeting wrapping up 90% of the writeup over the next 3 days |
 | 10/9 - Update | Clearly not done, and mildly off track, but come on... it's exam week. I'm working on the writeup right now |
+| 15/9 - Fixups | Working on the writeup at the moment and trying to get all the boilerplate out of the way before the holidays so the entirety of it may be dedicated to manufacuring and prototype testing |
