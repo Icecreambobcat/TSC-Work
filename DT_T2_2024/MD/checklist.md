@@ -37,3 +37,5 @@ Progress and steps will be tracked here once in a while
 | 5/9 - Update | Targeting wrapping up 90% of the writeup over the next 3 days |
 | 10/9 - Update | Clearly not done, and mildly off track, but come on... it's exam week. I'm working on the writeup right now |
 | 15/9 - Fixups | Working on the writeup at the moment and trying to get all the boilerplate out of the way before the holidays so the entirety of it may be dedicated to manufacuring and prototype testing |
+| 16/9 - Writeup | It's all in the name... |
+| 17/9 - Writeup | Ditto |
