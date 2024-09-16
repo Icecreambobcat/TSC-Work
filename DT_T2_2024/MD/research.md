@@ -42,8 +42,16 @@ Of course, as a school project, there are time limitations among a slew of other
 
 ### Materials & technologies
 
-asdf
+| Material | Notes |
+| :---: | --- |
+| asdf | asdf |
+
+| Tech | Notes |
+| :---: | --- |
+| asdf | asdf |
 
 ### Tools
 
-asdf
+| Tool | Notes |
+| :---: | --- |
+| asdf | asdf |
