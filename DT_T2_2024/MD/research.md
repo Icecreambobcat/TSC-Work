@@ -44,14 +44,30 @@ Of course, as a school project, there are time limitations among a slew of other
 
 | Material | Notes |
 | :---: | --- |
-| asdf | asdf |
+| Aluminium | asdf |
+| Titanium | asdf |
+| ABS | asdf |
+| Nylon | asdf |
+| PLA | asdf |
+| Acrylic | asdf |
+| Carbon Fibre | asdf |
 
 | Tech | Notes |
 | :---: | --- |
+| SLS printing | asdf |
+| CNC machining | asdf |
+| PCB printing | asdf |
+| Hall effect sensors | asdf |
+| asdf | asdf |
 | asdf | asdf |
 
 ### Tools
 
 | Tool | Notes |
 | :---: | --- |
+| asdf | asdf |
+| asdf | asdf |
+| asdf | asdf |
+| asdf | asdf |
+| asdf | asdf |
 | asdf | asdf |
