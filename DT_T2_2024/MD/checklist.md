@@ -33,19 +33,19 @@ Progress and steps will be tracked here once in a while
 
 | Week | Task |
 | -------------- | --------------- |
-| W1 |- [x] Documentation and research |
-| W2 |- [x] Documentation and research |
-| W3 |- [x] Research and design |
-| W4 |- [x] Research and design |
-| W5 |- [x] Design |
-| W6 |- [x] Design |
-| W7 |- [x] Design and build |
-| W8 |- [x] Design and build |
-| W9 |- [x] Design and build |
-| W10 - [x] Build |
-| W11 |- [x] Build |
-| W12 |- [x] Cleanup and finalisation |
-| W13 |- [x] Cleanup and finalisation |
+| W1 | - [x] Documentation and research |
+| W2 | - [x] Documentation and research |
+| W3 | - [x] Research and design |
+| W4 | - [x] Research and design |
+| W5 | - [x] Design |
+| W6 | - [x] Design |
+| W7 | - [x] Design and build |
+| W8 | - [x] Design and build |
+| W9 | - [x] Design and build |
+| W10 | - [x] Build |
+| W11 | - [x] Build |
+| W12 | - [x] Cleanup and finalisation |
+| W13 | - [x] Cleanup and finalisation |
 
 ## Comments & notes
 
