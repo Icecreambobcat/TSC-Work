@@ -44,30 +44,30 @@ Of course, as a school project, there are time limitations among a slew of other
 
 | Material | Notes |
 | :---: | --- |
-| Aluminium | asdf |
-| Titanium | asdf |
-| ABS | asdf |
-| Nylon | asdf |
-| PLA | asdf |
-| Acrylic | asdf |
-| Carbon Fibre | asdf |
+| Aluminium | One of, if not the most versatile material in modern engineering, aluminium is found in a variety of applications not only for its excellent cost-effectiveness, but also for its ease of manufacturing and abundance in nature - being one of the most common elements, it's an accessible entry point into metallic products. Additionally, its ease of access in today's age of online manufacturing makes it especially suitable for this project, balancing quality with reasonable affordability. |
+| Titanium | In comparison to aluminium, titanium features excellent mechanical properties and durability, the only limiting factor being its difficulty of manufacturing and it's prohibitive cost. However, providing approximately double the strength of aluminium, it may be used in the final product to varying degrees, largely to extend the lifetime of the product by nature of its increased mechanical durability. |
+| ABS | Cheap, easy to manufacture, and widespread, ABS plastic is another material of choice when it comes to mass production, its only limiting factors being its low melting point and poor durability against solvents and UV exposure. However, this isn't likely to affect this project as it isn't being designed for outdoor use or intended for these environments where this would be a legitimate concern. |
+| Nylon | Nylon is an extremely durable polymer, being waterproof and lightweight as well as innately fire-resistant. Formulas are also easy to tune for desirable characteristics, whether that be chemical resistance or weatherproofing. Its self-lubricating nature is also desireable in its use as an engineering material, being able to replace metal in many cases. |
+| PLA | PLA is arguably the most common filament used in FDM 3D printing, being organically derived as well as cheap, making it a highly desireable prototyping material. Additionally, the rapid prototyping that PLA and 3D printing removes much of the undesireable aspects of iterative design, namely the expensive and time-consuming nature of testing and remaking parts, often hundreds of times. |
+| PBT | PBT is much like ABS and PLA in its widespread adoption and excellent mechanical properties, but provides much more durability for the same product. An example of this would be keycaps for this project, where PBT keycaps are much more wear-resistant, UV-resistant, and overall much more durable compared to ABS, albeit more expensive, and substantially more suitable for a final product compared to PLA, which should not be used in production. |
+| Acrylic | Name brand Perspex, acrylic is typically used in place of glass when a clear material is required. In this case of this project, it'll be considered as an optional top or bottom plate, allowing for a better aesthetic through exposing the inner circuitry. |
 
 | Tech | Notes |
 | :---: | --- |
-| SLS printing | asdf |
-| CNC machining | asdf |
-| PCB printing | asdf |
-| Hall effect sensors | asdf |
-| asdf | asdf |
-| asdf | asdf |
+| SLS printing | Selective laser sintering is another popular method of 3D printing which may be used for complex geometries typically unachievable even by multi-axis CNC machines and FDM printers. Some benefits typically associated with this method include its low cost-per-part at high volumes, as well as its excellent versatility when it comes to material choice - titanium, aluminium, nylon - all are valid choices for SLS. Perhaps the only barrier to entry for hobbyists and small companies would be its prohibitively high opportunity cost, even non-industrial solutions designed for the public costing upwards of 5 figures. |
+| FDM printing | This is likely what people think of when they hear "3D printing", being the most commonly adopted solution among the general public. While it may be comparable in speed to other 3D printing techniques only on single parts, FDM quickly falls off in part durability and complexity when more straining designs are necessary, rendering it only suitable for small-volume productions or prototyping. Options like the MarkForged series of FDM printers exist, but those are far beyond the average consumer price, reaching far into the 5 figure range and beyond. |
+| SLA printing | SLA is another modern technique for 3D printing, utilising a high-definition UV displays to selectively cure UV resins and producing extremely precise parts with the caveat of much more restrictive material options. While metallic resins and their processing methods exist, they're often not without disqualifying flaws such as their poor tolerances or general lack of durability. |
+| CNC machining | CNC machining is perhaps the most important development to modern manufacturing, allowing for complex geometries otherwise not feasible for a human operator to create to be easily mass produced. However, CNC can also be incredibly restrictive and unforgiving to the operator, demanding programs that not only conform to tool limitations but requiring painstaking optimisation should any semblance of efficiency be desired. |
+| PCB printing | PCBs are practically everywhere in modern electronics, and the ability to custom print any PCB just as you would any other part of the project has come to be expected in modern engineering. Indeed, custom PCBs would make up most of the engineering difficulty of this project, making this technology an essential part of quick turnarounds in part engineering. Functionally though, these printers are just laser engravers, etching away the unwanted areas of copper to form the desired traces. |
+| Hall effect sensors | Hall effect (HE) sensors function on the basis of electromagnetism, utilising the inherant magnetic field of electrons to detect external magnetic fields present around the sensor. To that effect, HE sensors allow for contactless analog input, a highly desireable function for this project and many other technologies we take for granted; ignition timing, door sensors etc. all rely on HE sensors to function. |
+| Signal Multiplexers (MUX) | A specific piece of hardware for a specific purpose - reducing the number of I/O interfaces necessary for any components. While the naive approach to electronics would assign each interface independently, MUXs allow for multiple inputs to be read to a single I/O, greatly increasing the interface potential for a project. |
+| Microcontrollers (MCCs) | Not to be conflated with CPUs, MCCs are a complete package of the former, hardware and software interface all inclusive. Conversely, CPUs and microprocessors aren't designed to function independently of their driver hardware, necessitating further integration compared to their MCC counterparts. |
+| LEDs | LEDs are almost ubiquitous in the world of hardware design, their light being utilised for anything from purely aesthetic to critically functional. Similarly, they find purpose in this project both for aesthetic purposes and as indicator lights, allowing for a much more streamlined user experience. |
 
 ### Tools
 
 | Tool | Notes |
 | :---: | --- |
-| asdf | asdf |
-| asdf | asdf |
-| asdf | asdf |
-| asdf | asdf |
-| asdf | asdf |
-| asdf | asdf |
+| Soldering iron | As with any electronics project, a soldering iron is essential to even assemble the PCB and its components if not pre-assembled from the manufacturer. While varieties exist for the intricacies of the trade such as micro-soldering as well as specific desoldering irons, it's arguably more important to have one at all, seeing as assembly would be impossible without. While it's preferred that ventilation is available whenever soldering indoors, a respirator or similar mask is also acceptable. |
+| Alligator clips | These are part of the soldering toolkit, holding parts in place for ease of access to different areas and better soldering angles. These typically also come with a stand, allowing magnifiers and other components to be mounted on the various arms for an ergonomic workflow. |
+| Microscope/Magnifier | Mounted on the clip stand, or independently located on the workbench, these devices allow for exponentially greater accuracy when soldering and positioning parts, streamlining the process as well as increasing the ease of inspection and quality control. While not serving much purpose independently, they contribute to the engineering workflow to alleviate much of the stress that comes with working on these parts. |

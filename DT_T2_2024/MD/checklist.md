@@ -8,10 +8,10 @@ Progress and steps will be tracked here once in a while
 - [ ] Contents
 - [x] Background & purpose
 - [ ] Timeline
-- [ ] Research
+- [x] Research
   - [x] Areas of investigation
-  - [ ] Compare & contrast tech & materials
-  - [ ] Ditto w/tools
+  - [x] Compare & contrast tech & materials
+  - [x] Ditto w/tools
 - [ ] Double diamond
   - [ ] Div 1
   - [ ] Conv 1
@@ -22,11 +22,30 @@ Progress and steps will be tracked here once in a while
   - [ ] Learning from other designs
 - [ ] CAD & prototyping -> iterative design
   - [ ] PMI's from sketches
+  - [ ] Designing the PCB
   - [ ] Build docs
 - [ ] Review
   - [ ] Research relevance
   - [ ] Overall evaluation
 - [ ] End product
+
+## Timeline
+
+| Week | Task |
+| -------------- | --------------- |
+| W1 | - [x] Documentation and research |
+| W2 | - [x] Documentation and research |
+| W3 | - [x] Research and design |
+| W4 | - [x] Research and design |
+| W5 | - [x] Design |
+| W6 | - [x] Design |
+| W7 | - [x] Design and build |
+| W8 | - [x] Design and build |
+| W9 | - [x] Design and build |
+| W10 | - [x] Build |
+| W11 | - [x] Build |
+| W12 | - [x] Cleanup and finalisation |
+| W13 | - [x] Cleanup and finalisation |
 
 ## Comments & notes
 
@@ -39,3 +58,4 @@ Progress and steps will be tracked here once in a while
 | 15/9 - Fixups | Working on the writeup at the moment and trying to get all the boilerplate out of the way before the holidays so the entirety of it may be dedicated to manufacuring and prototype testing |
 | 16/9 - Writeup | It's all in the name... Currently added some more structure though |
 | 17/9 - Writeup | Ditto |
+| 15/10 - Update | What can I say, the holidays were definitely not quite as productive as I'd hoped for, meaning that I've 5 weeks of work in 2 nights. |
