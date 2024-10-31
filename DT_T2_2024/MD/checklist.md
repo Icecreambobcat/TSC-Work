@@ -13,10 +13,10 @@ Progress and steps will be tracked here once in a while
   - [x] Compare & contrast tech & materials
   - [x] Ditto w/tools
 - [ ] Double diamond
-  - [ ] Div 1
-  - [ ] Conv 1
-  - [ ] Div 2
-  - [ ] Conv 2
+  - [x] Div 1
+  - [x] Conv 1
+  - [x] Div 2
+  - [x] Conv 2
 - [ ] Principles of the design
   - [ ] Metrics of success
   - [ ] Learning from other designs
